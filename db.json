@@ -1,0 +1,14 @@
+{
+  "bike": [
+    {
+      "id": 1,
+      "Name": "Saim",
+      "Contactnumber": "9797979797",
+      "Address": "Patel Nagar",
+      "Emailid": "abc@gmail.com",
+      "Pincode": 421602,
+      "State": "Maharshtra",
+      "City": "Bhiwandi"
+    }
+  ]
+}
